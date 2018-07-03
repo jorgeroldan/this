@@ -4,7 +4,7 @@
 
 ![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
 
---
+---
 
 ## ¿Cuándo utilizamos el ¨This¨?
 ### Conversación en Pares
@@ -16,8 +16,6 @@
 ## Contexto
 
 - Idea clave 1 |
-- Idea clave 2 |
-- Idea clave 3 |
 
 ![Mr.MeeSeeks](https://media2.giphy.com/media/XrT2XN8L6yoMg/200w.webp)
 
@@ -41,7 +39,7 @@
 
 ---
 
-![Rick and Morty Game](https://media0.giphy.com/media/13o3CPgTMXAq1a/200w.webp)
+---?image=assets/image/giphy3.gif&opacity=100
 
 ---
 @title[JavaScript Block]
@@ -79,7 +77,7 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ---
 
-## Recomendaciones
+## Bonus!
 
 - Aprender programación Orientada a Objetos
   + [Acamica](https://www.acamica.com/clases/8343/javascript-objetos)
@@ -91,8 +89,6 @@ var pichichus = new Perro("Callejero", "Pichichus");
   + [Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos)
 
 ---
-
----?image=assets/image/giphy7.gif&opacity=100
 
 ![CODE](https://media2.giphy.com/media/3o7TKuAfCHifvPdcxG/200w.webp)
 ---
