@@ -2,8 +2,6 @@
 
 ### Programación Orientada a Objetos
 
----
-
 ---?image=assets/image/giphy3.gif&opacity=100
 
 ---
