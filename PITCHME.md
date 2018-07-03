@@ -1,5 +1,3 @@
-# THIS
-
 ### Programación Orientada a Objetos
 
 ---?image=assets/image/giphy3.gif&opacity=100
@@ -8,13 +6,31 @@
 
 # THIS
 
-### Programación Orientada a Objetos
+### en el paradigma POO de JavaScript
 
 ---
 
 ![Mr.MeeSeeks](https://media1.giphy.com/media/IFbYDFVZFyUak/200w.webp)
 
 ## ¿Cuándo utilizamos el ¨This¨?
+
+---
+
+## Peroooo antes, recuerdan: 
+
+![Nico](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F948922%3Fs%3D460%26v%3D4&f=1)
+
+- var 💩
+- let y const 😎
+- Scope: Global y Local 🌎 📍
+
+---
+
+## Entrando en tema...
+
+- Contexto !== Scope
+- 
+
 
 ---
 
@@ -93,18 +109,16 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ## Bonus!
 
-- Aprender programación Orientada a Objetos
+- Videos de POO
   + [Acamica](https://www.acamica.com/clases/8343/javascript-objetos)
   + [Khan Academy](https://es.khanacademy.org/computing/computer-programming/programming/object-oriented/p/challenge-double-rainbow)
-- Lecturas
+- Lecturas recomendadas
   + [Free Code Camp](https://medium.freecodecamp.org/intro-to-object-oriented-programming-oop-with-javascript-made-easy-a317b87d6943)
-   + [Envato](https://code.tutsplus.com/es/articles/Object-Oriented-Programming-JavaScript--cms-29256)
+   + [Understanding JS Scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
 - Documentación JavaScript Orientado a Objetos
   + [Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos)
 
----
 
-![CODE](https://media2.giphy.com/media/3o7TKuAfCHifvPdcxG/200w.webp)
 ---
 
 ## Proyectos!
