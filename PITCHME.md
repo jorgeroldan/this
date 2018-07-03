@@ -1,17 +1,10 @@
-
----
-
----?image=assets/image/giphy3.gif&opacity=100
-
----
-
 # THIS
 
 ### Paradigma de Programación Orientada a Objetos
 
 ---
 
----?image=assets/image/giphy4.gif&opacity=100
+---?image=assets/image/giphy4.gif&opacity=80
 
 ---
 
@@ -122,7 +115,7 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ---
 
----?image=assets/image/giphy5.gif&opacity=100
+---?image=assets/image/giphy5.gif&opacity=90
 
 ---
 

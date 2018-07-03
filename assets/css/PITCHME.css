@@ -65,10 +65,10 @@ html:-moz-full-screen-ancestor {
     font-size: 0.5em;
 }
 
-#gp-logo img {
+/* #gp-logo img {
   max-height: 2em;
   max-width: none;
-}
+} */
 
 .white {
   color: white;
