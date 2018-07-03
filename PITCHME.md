@@ -1,15 +1,22 @@
+
+---?image=assets/image/giphy3.gif&opacity=100
+
+
+---
+
 # THIS
 
 ### Programación Orientada a Objetos
 
-![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
-
 ---
 
-## ¿Cuándo utilizamos el ¨This¨?
-### Conversación en Pares
+![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
+
+----
 
 ![Mr.MeeSeeks](https://media1.giphy.com/media/IFbYDFVZFyUak/200w.webp)
+
+## ¿Cuándo utilizamos el ¨This¨?
 
 ---
 
