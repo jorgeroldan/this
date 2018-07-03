@@ -12,7 +12,7 @@
 
 ![Mr.MeeSeeks](https://media1.giphy.com/media/IFbYDFVZFyUak/200w.webp)
 
-## ¿Cuándo utilizamos el ¨This¨?
+## ¿Cuándo utilizamos THIS?
 
 ---
 
@@ -38,27 +38,13 @@
 ---
 ## Que SI
 
-- Utilizar THIS entendiendo el contexto del Objeto que queremos llamar y alcance específico en el que se encuentra.
-
 ![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
+
+- Utilizar THIS entendiendo el contexto del Objeto que queremos llamar y alcance específico en el que se encuentra.
 
 ---
 
 ![Constructor](https://media0.giphy.com/media/hBd8gzTnevKJq/giphy.gif)
-
----
-
-## Ojo!
-
-<br>
-
-@fa[arrows gp-tip](Constructor)
-
-@fa[arrows gp-tip](Contexto)
-
-@fa[sound gp-tip](Referencia)
-
-![Mr.MeeSeeks](https://media2.giphy.com/media/XrT2XN8L6yoMg/200w.webp)
 
 ---
 
@@ -96,10 +82,6 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ---
 
----?image=assets/image/giphy7.gif&opacity=100
-
----
-
 ## Bonus!
 
 - Videos de POO
@@ -124,37 +106,20 @@ var pichichus = new Perro("Callejero", "Pichichus");
 <div class="right">
     <ul>
         <li>Ta-Te-Ti</li>
-        <li>Private URLs</li>
+        <li>Ahorcado</li>
         <li>Ciudad Zombie</li>
     </ul>
 </div>
 
 ---
 
-### Recomendaciones o preguntas
-
-<br>
-
 @fa[twitter gp-contact](@roldanjorgex)
 
 @fa[github gp-contact](jorgeroldan)
 
----?image=assets/image/gitpitch-audience.jpg&opacity=100
-
 ---
 
----?image=assets/image/giphy5.gif&opacity=90
+@title[¿Organizamos una MOB Programming?]
 
----
-
-@title[Organizamos una MOB Programming!]
-
-### <span class="white">Ya terminaste tus proyectos?</span>
+### <span class="white">¿Ya terminaste tus proyectos?</span>
 ### [Vamos a Acamica]](https://www.acamica.com/)
-
-
----
-
----?image=assets/image/giphy6.gif&opacity=100
-
----
