@@ -18,7 +18,6 @@
 
 ![Nico](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F948922%3Fs%3D460%26v%3D4&f=1)
 
-- Pero antes, recuerden: 
   + var 💩
   + let y const 😎
   + Scope: Global y Local 🌎 📍
