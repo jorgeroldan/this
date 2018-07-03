@@ -8,6 +8,18 @@
 
 ---
 
+## Contexto
+
+- Idea clave 1 |
+- Idea clave 2 |
+- Idea clave 3 |
+
+---
+
+---?image=assets/image/giphy8.gif&opacity=100
+
+---
+
 ## Consejos!
 
 <br>
@@ -15,18 +27,6 @@
 @fa[arrows gp-tip](Contexto)
 
 @fa[sound gp-tip](Referencia)
-
----
-
----?image=assets/image/giphy2.gif&opacity=100
-
----
-
-## Contexto
-
-- Idea clave 1 |
-- Idea clave 2 |
-- Idea clave 3 |
 
 ---
 
