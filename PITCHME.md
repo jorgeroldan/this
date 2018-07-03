@@ -45,8 +45,6 @@
 
 ![Constructor](https://media0.giphy.com/media/hBd8gzTnevKJq/giphy.gif)
 
----
-
 ---?image=assets/image/giphy7.gif&opacity=100
 
 ---
@@ -116,9 +114,3 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 @fa[github gp-contact](jorgeroldan)
 
----
-
-@title[¿Organizamos una MOB Programming?]
-
-### <span class="white">¿Ya terminaste tus proyectos?</span>
-### [Vamos a Acamica]](https://www.acamica.com/)
