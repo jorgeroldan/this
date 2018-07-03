@@ -6,8 +6,6 @@
 
 ---?image=assets/image/giphy4.gif&opacity=80
 
----
-
 ## Contexto
 
 - Idea clave 1 |
@@ -17,8 +15,6 @@
 ---
 
 ---?image=assets/image/giphy8.gif&opacity=100
-
----
 
 ## Consejos!
 
@@ -31,8 +27,6 @@
 ---
 
 ---?image=assets/image/giphy7.gif&opacity=100
-
----
 
 @title[JavaScript Block]
 

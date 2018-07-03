@@ -29,7 +29,6 @@ html:-moz-full-screen-ancestor {
   font-size: 1.2em;
   line-height: 1.2;
   max-height: 60vh !important;
-  opacity: 0.85;
   border-radius: 10px;
 }
 
@@ -43,7 +42,7 @@ html:-moz-full-screen-ancestor {
 }
 
 .reveal p span.slide-title {
-  color: #333;
+  color: black;
   padding: 4px 15px;
   opacity: 0.75 !important;
   border-radius: 15px;
@@ -66,13 +65,25 @@ html:-moz-full-screen-ancestor {
     font-size: 0.5em;
 }
 
-#gp-logo img {
-  max-height: 2em;
-  max-width: none;
+.reveal a {
+    color: #e7ad52;
+}
+
+.reveal a:hover {
+    color: #f3d7ac;
+}
+
+.hljs {
+  background : none;
 }
 
 .white {
   color: white;
+}
+
+#gp-logo img {
+  max-height: 2em;
+  max-width: none;
 }
 
 .gp-tip { font-size : 1.5em; }
