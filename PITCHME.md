@@ -1,7 +1,10 @@
+# THIS
 
+### Programación Orientada a Objetos
+
+---
 
 ---?image=assets/image/giphy3.gif&opacity=100
-
 
 ---
 
@@ -9,8 +12,7 @@
 
 ### Programación Orientada a Objetos
 
-
-----
+---
 
 ![Mr.MeeSeeks](https://media1.giphy.com/media/IFbYDFVZFyUak/200w.webp)
 
