@@ -1,10 +1,17 @@
 # THIS
 
-### Paradigma de Programación Orientada a Objetos
+### Programación Orientada a Objetos
+
+![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
+
+--
+
+## ¿Cuándo utilizamos el ¨This¨?
+### Conversación en Pares
+
+![Mr.MeeSeeks](https://media1.giphy.com/media/IFbYDFVZFyUak/200w.webp)
 
 ---
-
----?image=assets/image/giphy4.gif&opacity=80
 
 ## Contexto
 
@@ -12,22 +19,31 @@
 - Idea clave 2 |
 - Idea clave 3 |
 
+![Mr.MeeSeeks](https://media2.giphy.com/media/XrT2XN8L6yoMg/200w.webp)
+
 ---
 
----?image=assets/image/giphy8.gif&opacity=100
+![Constructor](https://media0.giphy.com/media/hBd8gzTnevKJq/giphy.gif)
 
-## Consejos!
+---
+
+## Ojo!
 
 <br>
+
+@fa[arrows gp-tip](Constructor)
 
 @fa[arrows gp-tip](Contexto)
 
 @fa[sound gp-tip](Referencia)
 
+![Mr.MeeSeeks](https://media2.giphy.com/media/XrT2XN8L6yoMg/200w.webp)
+
 ---
 
----?image=assets/image/giphy7.gif&opacity=100
+![Rick and Morty Game](https://media0.giphy.com/media/13o3CPgTMXAq1a/200w.webp)
 
+---
 @title[JavaScript Block]
 
 <p><span class="slide-title">Bloque de JavaScript</span></p>
@@ -78,6 +94,7 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ---?image=assets/image/giphy7.gif&opacity=100
 
+![CODE](https://media2.giphy.com/media/3o7TKuAfCHifvPdcxG/200w.webp)
 ---
 
 ## Proyectos!
