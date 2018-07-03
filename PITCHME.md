@@ -1,4 +1,5 @@
 
+
 ---?image=assets/image/giphy3.gif&opacity=100
 
 
@@ -8,9 +9,6 @@
 
 ### Programación Orientada a Objetos
 
----
-
-![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
 
 ----
 
@@ -20,11 +18,20 @@
 
 ---
 
-## Contexto
+## Que NO
 
-- Idea clave 1 |
+- No es llamar por llamar
+- 
 
 ![Mr.MeeSeeks](https://media2.giphy.com/media/XrT2XN8L6yoMg/200w.webp)
+
+---
+## Que SI
+
+- Hacer referencia al objeto en un contexto y alcance específico
+- Llamada en relación a que 
+
+![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
 
 ---
 
