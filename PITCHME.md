@@ -30,10 +30,9 @@
 
 ## Que NO
 
-- Utilizar THIS en cualquier lugar sería llamar por llamar (Nosotros queremos llamar a la persona adecuada en el momento adecuado)
-
-
 ![Mr.MeeSeeks](https://media2.giphy.com/media/XrT2XN8L6yoMg/200w.webp)
+
+- Utilizar THIS en cualquier lugar sería llamar por llamar (Nosotros queremos llamar a la persona adecuada en el momento adecuado)
 
 ---
 ## Que SI
@@ -48,7 +47,7 @@
 
 ---
 
----?image=assets/image/giphy3.gif&opacity=100
+---?image=assets/image/giphy7.gif&opacity=100
 
 ---
 @title[JavaScript Block]
