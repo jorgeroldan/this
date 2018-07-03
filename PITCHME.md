@@ -1,10 +1,17 @@
+
+---
+
+---?image=assets/image/giphy3.gif&opacity=100
+
+---
+
 # THIS
 
 ### Paradigma de Programación Orientada a Objetos
 
 ---
 
----?image=assets/image/giphy7.gif&opacity=100
+---?image=assets/image/giphy4.gif&opacity=100
 
 ---
 
@@ -18,7 +25,7 @@
 
 ---
 
----?image=assets/image/giphy7.gif&opacity=100
+---?image=assets/image/giphy2.gif&opacity=100
 
 ---
 
@@ -31,14 +38,6 @@
 ---
 
 ---?image=assets/image/giphy7.gif&opacity=100
-
----
-
----?code=sample/js/scripts.js&lang=javaScript&title=JS File
-
-@[1,3-6](Present code found within any repo source file.)
-@[8-18](Without ever leaving your slideshow.)
-@[19-28](Using GitPitch code-presenting with (optional) annotations.)
 
 ---
 
@@ -73,6 +72,10 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ---
 
+---?image=assets/image/giphy7.gif&opacity=100
+
+---
+
 ## Recomendaciones
 
 - Aprender programación Orientada a Objetos
@@ -84,7 +87,10 @@ var pichichus = new Perro("Callejero", "Pichichus");
 - Documentación JavaScript Orientado a Objetos
   + [Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos)
 
-  
+---
+
+---?image=assets/image/giphy7.gif&opacity=100
+
 ---
 
 ## Proyectos!
@@ -116,7 +122,7 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ---
 
----?image=assets/image/giphy7.gif&opacity=100
+---?image=assets/image/giphy5.gif&opacity=100
 
 ---
 
@@ -128,6 +134,6 @@ var pichichus = new Perro("Callejero", "Pichichus");
 
 ---
 
----?image=assets/image/giphy7.gif&opacity=100
+---?image=assets/image/giphy6.gif&opacity=100
 
 ---
