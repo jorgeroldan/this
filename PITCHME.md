@@ -16,7 +16,7 @@
 
 ---
 
-![Nico](https://images.duckduckgo.com/iu/?u=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F948922%3Fs%3D460%26v%3D4&f=1)
+![Nico](https://pbs.twimg.com/profile_images/995340838795403264/VhF3DGJH_400x400.jpg)
 
   + var 💩
   + let y const 😎
@@ -86,7 +86,7 @@ var pichichus = new Perro("Callejero", "Pichichus");
   + [Khan Academy](https://es.khanacademy.org/computing/computer-programming/programming/object-oriented/p/challenge-double-rainbow)
 - Lecturas recomendadas
   + [Free Code Camp](https://medium.freecodecamp.org/intro-to-object-oriented-programming-oop-with-javascript-made-easy-a317b87d6943)
-   + [Understanding JS Scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
+  + [Understanding JS Scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
 - Documentación JavaScript Orientado a Objetos
   + [Mozilla](https://developer.mozilla.org/es/docs/Web/JavaScript/Introducci%C3%B3n_a_JavaScript_orientado_a_objetos)
 
