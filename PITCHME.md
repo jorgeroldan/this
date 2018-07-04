@@ -120,7 +120,7 @@ const nuevoEstudiante = new Profesor("Carla", "Carlini", "FullStack", "Alumno", 
 
 ---
 
-## No te olvides de trabajar en equipo para tus proyectos, es la mejor forma de aprender!
+### No te olvides de trabajar en equipo para tus proyectos, es la mejor forma de aprender!
 
 <div class="left">
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
