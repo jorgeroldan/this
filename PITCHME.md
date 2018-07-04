@@ -53,27 +53,52 @@
 <p><span class="slide-title">Bloque de JavaScript</span></p>
 
 ```javascript
-// Definir el prototipo
-function Perro (raza, nombre) {
-  this.raza = raza;
+// Constructor
+function constructorMiObjeto(nombre, apellido, edad, saludo) {
   this.nombre = nombre;
-}
- 
-// Acá creamos al perro snoopy 
-var snoopy = new Perro("Beagle","Snoopy");
+  this.apellido = apellido;
+  this.edad = edad;
+  this.saludo = function(saludo) {
+    console.log("cuando saludo digo: " + saludo)
+  };
+  this.ciudad = 'BSAS'
 
-// Y le enseñamos a ladrar
-snoopy.ladrar = function() {
-  console.log("Woof");
+}
+
+miObjeto = new constructorMiObjeto("Matias", "Blayer", 32, "Hola")
+
+
+//Herencia
+
+//Objeto Padre
+
+function Persona(primerNombre, apellido) {
+  this.primerNombre = primerNombre;
+  this.apellido = apellido;
+}
+
+function Estudiante(primerNombre, apellido, cursoAcamica, rol, profesor) {
+  Persona.call(this, primerNombre, apellido);
+  this.cursoAcamica = cursoAcamica;
+  this.profesor = profesor;
+  this.rol = rol;
+
 };
 
- 
-// Ahora creamos al perro Pichichus 
-var pichichus = new Perro("Callejero", "Pichichus");
+function Profesor(primerNombre, apellido, cursoAcamica, rol) {
+  Persona.call(this, primerNombre, apellido);
+  this.cursoAcamica = cursoAcamica;
+  this.rol = rol
+};
+
+//Objetos Hijo
+
+const nuevoProfesor = new Profesor("Matias", "Blayer", "FullStack", "Profesor");
+const nuevoEstudiante = new Profesor("Carla", "Carlini", "FullStack", "Alumno", "Matias");
 
 ```
 
-@[1,2](Recomendación 1)
+@[81](La llamada de la función podria ser una buena forma de entender el contexto)
 @[9-17](Recomendación 2)
 @[19-20](Recomendación 3)
 
