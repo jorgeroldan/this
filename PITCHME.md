@@ -43,6 +43,7 @@
 - Tener claro el alcance del objeto
 
 ---
+## Constructor
 
 ![Constructor](https://media0.giphy.com/media/hBd8gzTnevKJq/giphy.gif)
 
