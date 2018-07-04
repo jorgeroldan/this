@@ -39,7 +39,8 @@
 
 ![Purpouse](https://media1.giphy.com/media/ziEGYtWrYAPcc/200w.webp)
 
-- Utilizar THIS entendiendo el contexto del Objeto que queremos llamar y alcance específico en el que se encuentra.
+- Utilizar THIS entendiendo el contexto del Objeto que queremos llamar.
+- Tener claro el alcance del objeto
 
 ---
 
@@ -100,7 +101,7 @@ const nuevoEstudiante = new Profesor("Carla", "Carlini", "FullStack", "Alumno", 
 
 @[20-24](En este momento THIS hace referencia al Objeto Persona 👷🏻‍♀️)
 @[25-29](La llamada de la función podria ser una buena forma de entender el contexto 🤔)
-@[30-32](El THIS anterior de el método CALL hacia referencia al objeto Persona y este THIS hace referencia al objeto ESTUDIANTE 🤓)
+@[33-34](El THIS anterior de el método CALL hacia referencia al objeto Persona y este THIS hace referencia al objeto ESTUDIANTE 🤓)
 
 ---
 
