@@ -98,7 +98,7 @@ const nuevoEstudiante = new Profesor("Carla", "Carlini", "FullStack", "Alumno", 
 
 ```
 
-@[81](La llamada de la función podria ser una buena forma de entender el contexto)
+@[1-3](La llamada de la función podria ser una buena forma de entender el contexto)
 @[9-17](Recomendación 2)
 @[19-20](Recomendación 3)
 
