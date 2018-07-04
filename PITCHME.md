@@ -98,8 +98,8 @@ const nuevoEstudiante = new Profesor("Carla", "Carlini", "FullStack", "Alumno", 
 
 ```
 
-@[22-24](En este momento estamos utilizando THIS que hace referencia al Objeto Persona)
-@[27-29](La llamada de la función podria ser una buena forma de entender el contexto)
+@[21-24](En este momento estamos utilizando THIS que hace referencia al Objeto Persona)
+@[25-29](La llamada de la función podria ser una buena forma de entender el contexto)
 @[30-32](El THIS anterior de el método CALL hacia referencia al objeto Persona y este THIS hace referencia al objeto ESTUDIANTE)
 
 ---
