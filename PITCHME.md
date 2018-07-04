@@ -105,7 +105,7 @@ const nuevoEstudiante = new Profesor("Carla", "Carlini", "FullStack", "Alumno", 
 
 ---
 
-## Bonus!
+## Extra Bonus!
 
 - Videos de POO
   + [Acamica](https://www.acamica.com/clases/8343/javascript-objetos)
