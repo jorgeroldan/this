@@ -120,12 +120,12 @@ const nuevoEstudiante = new Profesor("Carla", "Carlini", "FullStack", "Alumno", 
 
 ---
 
-## Proyectos!
+## No te olvides de trabajar en equipo para tus proyectos, es la mejor forma de aprender!
 
 <div class="left">
     <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
     <a href="https://www.acamica.com/" class="pro-link">
-    Aprender un poco más</a>
+    Acamica ON</a>
 </div>
 <div class="right">
     <ul>
