@@ -52,7 +52,7 @@
 ---
 @title[JavaScript Block]
 
-<p><span class="slide-title">Bloque de JavaScript</span></p>
+<p><span class="slide-title">Bloque de JavaScript de Mati</span></p>
 
 ```javascript
 // Constructor
